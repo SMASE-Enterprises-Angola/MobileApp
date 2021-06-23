@@ -1,0 +1,2 @@
+rootProject.name = "MyWorkoutAdivisor2"
+include ':app'
